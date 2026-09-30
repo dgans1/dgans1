@@ -23,7 +23,7 @@ SQL
 JavaScript
 TypeScript
 C++
-
+      
 AI / Machine Learning
 
 Large Language Models (LLMs)
@@ -70,7 +70,7 @@ Worked on AI agents, automated workflows, data analysis, dashboards, and tools d
 
 📈 Currently Learning
 
-AI Agents LLM Applications AWS TypeScript C++ Cloud Architecture
+ML AWS TypeScript C++ Cloud Architecture
 
 📫 Connect With Me
 
